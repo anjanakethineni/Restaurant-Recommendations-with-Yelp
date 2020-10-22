@@ -14,3 +14,4 @@ Suggests new restaurants to Yelp users, based on the star ratings of other Yelp 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
+------
